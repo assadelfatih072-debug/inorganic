@@ -1,0 +1,7 @@
+{
+  "name": "PharmInorganica - Inorganic Pharmaceutical Chemistry Hub",
+  "description": "Comprehensive interactive MCQ revision, exam simulator, and clinical review platform for Inorganic Pharmaceutical Chemistry 1 & 2 with all 140 lecture questions, limit test principles, and explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
